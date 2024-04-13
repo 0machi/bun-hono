@@ -1,0 +1,7 @@
+name = "bun-hono"
+main = "src/index.ts"
+compatibility_date = "2024-04-13"
+
+[env.stg]
+name = "bun-hono-stg"
+

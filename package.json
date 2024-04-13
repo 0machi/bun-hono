@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --minify"
+  },
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "hono": "^4.2.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.6.4",
+    "@cloudflare/workers-types": "^4.20240403.0",
+    "@types/figlet": "^1.5.8",
+    "wrangler": "^3.47.0"
+  }
+}
